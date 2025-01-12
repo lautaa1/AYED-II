@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "fixstring.h": "c",
+        "stdbool.h": "c",
+        "random": "c"
+    }
+}
